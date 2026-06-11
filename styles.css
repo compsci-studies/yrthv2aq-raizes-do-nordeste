@@ -181,7 +181,7 @@ img {
   color: var(--leite);
   background:
     linear-gradient(135deg, rgba(58, 33, 24, 0.76), rgba(58, 33, 24, 0.3)),
-    url("./assets/baiao-de-dois.jpg") center / cover;
+    url("./assets/baiao.svg") center / cover;
   box-shadow: var(--shadow);
   overflow: hidden;
 }
@@ -297,7 +297,7 @@ img {
   color: var(--leite);
   background:
     linear-gradient(180deg, transparent, rgba(58, 33, 24, 0.78)),
-    url("./assets/acaraje.jpg") center / cover;
+    url("./assets/acaraje.svg") center / cover;
 }
 
 .today-card div {

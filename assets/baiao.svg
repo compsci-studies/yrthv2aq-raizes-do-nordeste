@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Baião de Dois da Casa</title>
+  <desc id="desc">Ilustração estilizada do prato Baião de Dois da Casa.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff3e3"/>
+      <stop offset="100%" stop-color="#f4d7af"/>
+    </linearGradient>
+    <radialGradient id="plate" cx="50%" cy="46%" r="42%">
+      <stop offset="0%" stop-color="#fffefb"/>
+      <stop offset="100%" stop-color="#efe2cf"/>
+    </radialGradient>
+    <linearGradient id="food" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#d78b31"/>
+      <stop offset="100%" stop-color="#9b4f1d"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="760" rx="48" fill="url(#bg)"/>
+  <circle cx="600" cy="360" r="250" fill="url(#plate)"/>
+  <ellipse cx="600" cy="365" rx="185" ry="145" fill="#714422" opacity="0.18"/>
+  <ellipse cx="600" cy="355" rx="195" ry="150" fill="url(#food)"/>
+  <circle cx="510" cy="312" r="22" fill="#f0d57e"/>
+  <circle cx="548" cy="414" r="19" fill="#f0d57e"/>
+  <circle cx="694" cy="302" r="20" fill="#f0d57e"/>
+  <circle cx="732" cy="398" r="24" fill="#f0d57e"/>
+  <circle cx="638" cy="444" r="16" fill="#f0d57e"/>
+  <circle cx="470" cy="380" r="14" fill="#f6efe2"/>
+  <circle cx="770" cy="348" r="15" fill="#f6efe2"/>
+  <circle cx="640" cy="280" r="13" fill="#f6efe2"/>
+  <circle cx="560" cy="255" r="12" fill="#2f6f4e"/>
+  <circle cx="470" cy="336" r="10" fill="#2f6f4e"/>
+  <circle cx="700" cy="438" r="11" fill="#2f6f4e"/>
+  <circle cx="760" cy="292" r="10" fill="#2f6f4e"/>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Acarajé no Prato</title>
+  <desc id="desc">Ilustração estilizada do prato Acarajé no Prato.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff2e5"/>
+      <stop offset="100%" stop-color="#f3d1a7"/>
+    </linearGradient>
+    <radialGradient id="plate" cx="50%" cy="46%" r="42%">
+      <stop offset="0%" stop-color="#fffefb"/>
+      <stop offset="100%" stop-color="#f0e3cf"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="760" rx="48" fill="url(#bg)"/>
+  <circle cx="600" cy="360" r="250" fill="url(#plate)"/>
+  <ellipse cx="600" cy="370" rx="190" ry="150" fill="#8d4d1e" opacity="0.2"/>
+  <ellipse cx="520" cy="360" rx="100" ry="84" fill="#c96b20"/>
+  <ellipse cx="680" cy="360" rx="100" ry="84" fill="#c96b20"/>
+  <ellipse cx="520" cy="348" rx="80" ry="58" fill="#f1bb52"/>
+  <ellipse cx="680" cy="348" rx="80" ry="58" fill="#f1bb52"/>
+  <ellipse cx="600" cy="430" rx="148" ry="54" fill="#efe1be"/>
+  <circle cx="560" cy="432" r="14" fill="#b72518"/>
+  <circle cx="608" cy="420" r="13" fill="#b72518"/>
+  <circle cx="648" cy="438" r="12" fill="#b72518"/>
+  <circle cx="688" cy="422" r="12" fill="#b72518"/>
+  <circle cx="500" cy="432" r="12" fill="#2f6f4e"/>
+  <circle cx="538" cy="452" r="10" fill="#2f6f4e"/>
+  <circle cx="636" cy="452" r="10" fill="#2f6f4e"/>
+  <circle cx="722" cy="438" r="11" fill="#2f6f4e"/>
+</svg>
